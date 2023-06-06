@@ -1,0 +1,17 @@
+form{
+    position: absolute;
+    bottom: 10px;
+    
+}
+input{
+    width: 350px;
+    height: 30px;
+    border-radius: 5px;
+    text-align: left;
+}
+
+button{
+    cursor: pointer;
+    height: 35px;
+    border-radius: 5px;
+}
